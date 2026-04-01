@@ -74,12 +74,6 @@ src/
 - **Authentication System:** Replace the simulated role-switcher with secure token-based authentication protocols (e.g., Clerk, NextAuth, Auth0).
 - **Advanced Analytics:** Support multi-year filtering, custom metric thresholds, and predictive modeling algorithms.
 
-## Screenshots
-
-*(Insert visual overviews here)*  
-`![Dashboard Overview](screenshots/image.png)`  
-`![Transactions View](screenshots/image copy.png)`  
-`![Insights Layout](screenshots/image copy 2.png)`
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
