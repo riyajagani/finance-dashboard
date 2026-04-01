@@ -77,9 +77,9 @@ src/
 ## Screenshots
 
 *(Insert visual overviews here)*  
-`![Dashboard Overview](path/to/screenshot-dashboard.png)`  
-`![Transactions View](path/to/screenshot-transactions.png)`  
-`![Insights Layout](path/to/screenshot-insights.png)`
+`![Dashboard Overview](C:\Users\Public\Documents\zorvyn-task\screenshots\image.png)`  
+`![Transactions View](screenshots\image copy.png)`  
+`![Insights Layout](C:\Users\Public\Documents\zorvyn-task\screenshots\image copy 2.png)`
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
